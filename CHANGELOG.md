@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/medic/cht-user-management/compare/v2.6.0...v2.6.1) (2026-02-06)
+
+
+### Bug Fixes
+
+* **#322:** set reduce param to false for view query ([4a2dae6](https://github.com/medic/cht-user-management/commit/4a2dae6051fc143114f217c0a8080ff13e5d2989)), closes [#322](https://github.com/medic/cht-user-management/issues/322)
+
 # [2.6.0](https://github.com/medic/cht-user-management/compare/v2.5.0...v2.6.0) (2025-12-03)
 
 
