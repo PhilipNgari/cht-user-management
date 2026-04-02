@@ -1,3 +1,10 @@
+## [2.6.3](https://github.com/medic/cht-user-management/compare/v2.6.2...v2.6.3) (2026-04-02)
+
+
+### Bug Fixes
+
+* **#324:** make MAX_SENTINEL_BACKLOG configurable ([#327](https://github.com/medic/cht-user-management/issues/327)) ([9fea413](https://github.com/medic/cht-user-management/commit/9fea4130875579f0d1cc74fe8d4e1cb76bef1c2f)), closes [#324](https://github.com/medic/cht-user-management/issues/324)
+
 ## [2.6.2](https://github.com/medic/cht-user-management/compare/v2.6.1...v2.6.2) (2026-04-01)
 
 
