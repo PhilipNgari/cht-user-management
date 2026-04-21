@@ -21,8 +21,12 @@ export type UserExportData = {
 };
 
 function getPlaceIds(place: UserInfo['place']): string[] {
-  if (!place) return [];
-  if (typeof place === 'string') return [place];
+  if (!place) {
+    return [];
+  }
+  if (typeof place === 'string') {
+    return [place];
+  }
   if (Array.isArray(place)) {
     return place.map((p) => (typeof p === 'string' ? p : (p as any)._id)).filter(Boolean);
   }
